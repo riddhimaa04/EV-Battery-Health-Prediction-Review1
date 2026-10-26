@@ -1,0 +1,8 @@
+step 1- create a virtual environment 
+ 	python -m venv env
+step 2- activate the virtual environment
+	-> env/Scripts/activate
+step 3- to deactivate the virtual env
+	deactivate
+for flask 
+
